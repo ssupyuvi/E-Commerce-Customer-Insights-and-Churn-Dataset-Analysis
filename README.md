@@ -27,7 +27,7 @@ The audit utilized a multi-stage diagnostic framework:
 
 ## 📂 Project Structure
 * `/sql_queries`: Contains the forensic audit scripts used for data extraction and behavioral analysis.
-* `/docs`: Contains the full diagnostic analysis report.
+
 
 ---
 
